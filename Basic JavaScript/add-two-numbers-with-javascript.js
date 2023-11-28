@@ -7,6 +7,7 @@
 const sum = 10 + 10;
 
 // Tests:
+
 console.log(sum);
 
 
