@@ -14,5 +14,6 @@ function testLogicalAnd(val) {
     return "No";
 }
 
+
 // Tests:
 console.log(testLogicalAnd(10));
