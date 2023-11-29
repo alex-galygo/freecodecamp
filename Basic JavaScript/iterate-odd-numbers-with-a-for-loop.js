@@ -1,0 +1,8 @@
+// Setup
+const myArray = [];
+
+for (let i = 1; i < 10; i += 2) {
+    myArray.push(i);
+}
+// Only change code below this line
+console.log(myArray) // should equal [1,3,5,7,9].
